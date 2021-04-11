@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to right, blue, yellow);
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+h1 {
+    color: blue;
+    border-style: solid;
+    border-color: black;
+}
+
+h2 {}
+
+h3 {}
+
+h4 {}
+
+h5 {}
